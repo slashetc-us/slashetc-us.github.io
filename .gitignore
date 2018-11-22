@@ -1,0 +1,6 @@
+.*
+!.gitignore
+_site
+_importOld*
+.sass-cache
+.jekyll-metadata

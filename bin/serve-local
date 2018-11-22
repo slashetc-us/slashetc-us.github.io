@@ -1,0 +1,4 @@
+#!/bin/bash
+# Simple wrapper to serve this repo locally for development
+
+bundle exec jekyll serve

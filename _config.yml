@@ -28,10 +28,16 @@ theme: minima
 plugins:
   - jekyll-feed
 
+permalink: /:year/:month/:title/
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
+   - .gitlab-cї
+   - tt-rss/
+   - bin/
+   - _importOld-Wordpress/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules

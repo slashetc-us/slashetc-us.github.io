@@ -1,0 +1,25 @@
+stages:
+   - build-master
+   - build-testing
+   - build-develop
+
+build-master-branch:
+   stage: build-master
+   only:
+      - master
+#   script:
+#      - /slashetc/admin/build-tools/bin/package_build.sh --buildtype=gitlab --branch=$CI_BUILD_REF_NAME --revision=$CI_BUILD_REF --sendToApt
+
+build-testing-branch:
+   stage: build-testing
+   only:
+      - testing
+#   script:
+#      - /slashetc/admin/build-tools/bin/package_build.sh --buildtype=gitlab --branch=$CI_BUILD_REF_NAME --revision=$CI_BUILD_REF --sendToApt
+
+build-develop-branch:
+   stage: build-develop
+   only:
+      - develop
+#   script:
+#      - /slashetc/admin/build-tools/bin/package_build.sh --buildtype=gitlab --branch=$CI_BUILD_REF_NAME --revision=$CI_BUILD_REF --sendToApt

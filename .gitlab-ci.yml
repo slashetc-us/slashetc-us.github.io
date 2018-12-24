@@ -4,20 +4,23 @@ stages:
    - deploy-testing
    - deploy-master
 
-install-build-dependencies:
+install:dependencies:
    stage: install-dependencies
    script:
       - source ${PWD}/build/bash_source
       - gem install jekyll bundler
       - bundle install
 
-build-site:
+build:site:
    stage: build-source
+   artifacts:
+      paths:
+         - _site/
    script:
       - source ${PWD}/build/bash_source
       - ${PWD}/build/build gitlab
 
-deploy-testing-branch:
+deploy:testing:
    stage: deploy-testing
    only:
       - testing
@@ -27,7 +30,7 @@ deploy-testing-branch:
       - rsync -rltOJDvze ssh --exclude '.git*' --exclude 'bin' --delete ${PWD}/_site/ www-dev.slashetc.us:/var/www/html/
       - ssh www-dev.slashetc.us "deployScript blog_deploy.sh postdeploy" 2>/dev/null
 
-deploy-master-branch:
+deploy:master:
    stage: deploy-master
    only:
       - master

@@ -14,6 +14,7 @@ install-build-dependencies:
 build-site:
    stage: build-source
    script:
+      - source ${PWD}/build/bash_source
       - ${PWD}/build/build gitlab
 
 deploy-testing-branch:

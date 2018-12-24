@@ -10,7 +10,7 @@
 #------------------------------------------------------------------------------
 
    echo "Fixing File Permissions in /var/www/html/"
-   chown -R www-data /var/www/html/*
+   chgrp -R www-data /var/www/html/*
 
    exit $?
 

@@ -1,31 +1,38 @@
 stages:
-   - build-master
-   - build-testing
+   - install-dependencies
+   - build-source
+   - deploy-testing
+   - deploy-master
 
-build-master-branch:
-   stage: build-master
-   only:
-      - master
+install-build-dependencies:
+   stage: install-dependencies
    script:
       - source ${PWD}/build/bash_source
       - gem install jekyll bundler
       - bundle install
-      - ${PWD}/build/build gitlab
-      - ssh-keyscan www-dev.slashetc.us > ~/.ssh/known_hosts
-      - scp ${PWD}/build/deploy www-dev.slashetc.us:/slashetc/home/gitlab-runner/bin/blog_deploy.sh 2>/dev/null
-      - rsync -rltOJDvze ssh --exclude '.git*' --exclude 'bin' --delete ${PWD}/_site/ www-dev.slashetc.us:/var/www/html/
-      - ssh www-dev.slashetc.us "deployScript blog_deploy.sh postdeploy" 2>/dev/null
 
-build-testing-branch:
-   stage: build-testing
+build-site:
+   stage: build-source
+   script:
+      - ${PWD}/build/build gitlab
+
+deploy-testing-branch:
+   stage: deploy-testing
    only:
       - testing
    script:
-      - source ${PWD}/build/bash_source
-      - gem install jekyll bundler
-      - bundle install
-      - ${PWD}/build/build gitlab
       - ssh-keyscan www-dev.slashetc.us > ~/.ssh/known_hosts
       - scp ${PWD}/build/deploy www-dev.slashetc.us:/slashetc/home/gitlab-runner/bin/blog_deploy.sh 2>/dev/null
       - rsync -rltOJDvze ssh --exclude '.git*' --exclude 'bin' --delete ${PWD}/_site/ www-dev.slashetc.us:/var/www/html/
       - ssh www-dev.slashetc.us "deployScript blog_deploy.sh postdeploy" 2>/dev/null
+
+deploy-master-branch:
+   stage: deploy-master
+   only:
+      - master
+   script:
+      - ssh-keyscan www-dev.slashetc.us > ~/.ssh/known_hosts
+      - scp ${PWD}/build/deploy www-dev.slashetc.us:/slashetc/home/gitlab-runner/bin/blog_deploy.sh 2>/dev/null
+      - rsync -rltOJDvze ssh --exclude '.git*' --exclude 'bin' --delete ${PWD}/_site/ www-dev.slashetc.us:/var/www/html/
+      - ssh www-dev.slashetc.us "deployScript blog_deploy.sh postdeploy" 2>/dev/null
+

@@ -33,6 +33,9 @@ plugins:
 owner : "Michael J. Ford"
 year : "2018"
 
+# Google Tracking
+google_analytics:
+
 # Exclude from processing
 exclude:
    - .gitignore

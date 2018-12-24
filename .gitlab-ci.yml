@@ -7,7 +7,10 @@ build-master-branch:
    only:
       - master
    script:
-      - ${PWD}/bin/build
+      - source ${PWD}/build/bash_source
+      - gem install jekyll bundler
+      - bundle install
+      - ${PWD}/build/build
       - ssh-keyscan www-dev.slashetc.us > ~/.ssh/known_hosts
       - rsync -rltOJDvze ssh --exclude '.git*' --exclude 'bin' --delete ${PWD}/_site/ www-dev.slashetc.us:/var/www/html/
 
@@ -16,10 +19,13 @@ build-testing-branch:
    only:
       - testing
    script:
-      - ${PWD}/bin/build
+      - source ${PWD}/build/bash_source
+      - gem install jekyll bundler
+      - bundle install
+      - ${PWD}/build/build
       - ssh-keyscan www-dev.slashetc.us > ~/.ssh/known_hosts
       - rsync -rltOJDvze ssh --exclude '.git*' --exclude 'bin' --delete ${PWD}/_site/ www-dev.slashetc.us:/var/www/html/
 
 # Post deploy stuff, might be useful at some point
-#      - scp ${PWD}/bin/deploy.sh www-dev.slashetc.us:/slashetc/home/gitlab-runner/bin/deploy.sh 2>/dev/null
+#      - scp ${PWD}/build/deploy.sh www-dev.slashetc.us:/slashetc/home/gitlab-runner/bin/deploy.sh 2>/dev/null
 #      - ssh www-dev.slashetc.us "deployScript deploy-provisioning.sh postdeploy" 2>/dev/null

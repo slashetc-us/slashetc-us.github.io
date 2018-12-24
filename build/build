@@ -1,0 +1,12 @@
+#!/bin/bash
+# Simple wrapper to build this repo locally for development
+
+case $1 in
+   serve)
+      echo "Building Blog from ${PWD}, Serving locally from ${PWD}/_site"
+      bundle exec jekyll serve
+      ;;
+   *) echo "Building Blog from ${PWD}"
+      bundle exec jekyll build
+      ;;
+esac

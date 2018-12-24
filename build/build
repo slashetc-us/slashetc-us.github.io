@@ -6,7 +6,12 @@ case $1 in
       echo "Building Blog from ${PWD}, Serving locally from ${PWD}/_site"
       bundle exec jekyll serve
       ;;
+   gitlab)
+      echo "Building Blog from ${PWD}"
+      bundle exec jekyll build
+      ;;
    *) echo "Building Blog from ${PWD}"
+      bundle install
       bundle exec jekyll build
       ;;
 esac

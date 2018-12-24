@@ -1,25 +1,25 @@
 stages:
    - build-master
    - build-testing
-   - build-develop
 
 build-master-branch:
    stage: build-master
    only:
       - master
-#   script:
-#      - /slashetc/admin/build-tools/bin/package_build.sh --buildtype=gitlab --branch=$CI_BUILD_REF_NAME --revision=$CI_BUILD_REF --sendToApt
+   script:
+      - ${PWD}/bin/build
+      - ssh-keyscan www-dev.slashetc.us > ~/.ssh/known_hosts
+      - rsync -rltOJDvze ssh --exclude '.git*' --exclude 'bin' --delete ${PWD}/_site/ www-dev.slashetc.us:/var/www/html/
 
 build-testing-branch:
    stage: build-testing
    only:
       - testing
-#   script:
-#      - /slashetc/admin/build-tools/bin/package_build.sh --buildtype=gitlab --branch=$CI_BUILD_REF_NAME --revision=$CI_BUILD_REF --sendToApt
+   script:
+      - ${PWD}/bin/build
+      - ssh-keyscan www-dev.slashetc.us > ~/.ssh/known_hosts
+      - rsync -rltOJDvze ssh --exclude '.git*' --exclude 'bin' --delete ${PWD}/_site/ www-dev.slashetc.us:/var/www/html/
 
-build-develop-branch:
-   stage: build-develop
-   only:
-      - develop
-#   script:
-#      - /slashetc/admin/build-tools/bin/package_build.sh --buildtype=gitlab --branch=$CI_BUILD_REF_NAME --revision=$CI_BUILD_REF --sendToApt
+# Post deploy stuff, might be useful at some point
+#      - scp ${PWD}/bin/deploy.sh www-dev.slashetc.us:/slashetc/home/gitlab-runner/bin/deploy.sh 2>/dev/null
+#      - ssh www-dev.slashetc.us "deployScript deploy-provisioning.sh postdeploy" 2>/dev/null

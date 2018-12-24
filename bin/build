@@ -1,4 +1,4 @@
 #!/bin/bash
 # Simple wrapper to build this repo locally for development
 
-bundle exec jekyll build --incremental
+bundle exec jekyll build

@@ -2,7 +2,7 @@ stages:
    - install-dependencies
    - build-source
    - deploy-testing
-   - deploy-www
+   - deploy-stable
 
 install:dependencies:
    stage: install-dependencies

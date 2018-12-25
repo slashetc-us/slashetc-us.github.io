@@ -1,3 +1,9 @@
+# Forward
+
+The License attached to this repository is the original from the hacker-blog theme. I have adopted the same license for my own posts and additions to the theme.
+
+Posts published via my '[BOT] TT-RSS Published Articles' are covered under their respective licenses and listed here to share things Linuxy, Security Related, etc. that I have found particularly intresting or enjoyable.
+
 # The Hacker-Blog theme
 
 *Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. It is based on the [hacker theme](https://github.com/pages-themes/hacker) for project pages.*

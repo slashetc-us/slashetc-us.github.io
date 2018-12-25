@@ -6,7 +6,7 @@ layout: default
 ---
 
 # Welcome to /etc
-![](/wp-content/uploads/2014/04/cropped-TuxHeader.png){: .center-image }
+![](/assets/cropped-TuxHeader.png){: .center-image }
 
 ## Linux and other Open Source Tech for the rest of us
 {: .center-text}

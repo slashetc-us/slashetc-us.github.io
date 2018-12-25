@@ -14,7 +14,6 @@ If you hadn’t guessed by now, I am a massive Open Source advocate. I live, eat
 
 I hope you all enjoy what I have to share, and maybe learn a bit from it.
 
-<br><br>
 <center>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="904af3d4-07fe-4d82-b60e-da811788e32f"></div>
   <script type="text/javascript">
@@ -40,11 +39,13 @@ I hope you all enjoy what I have to share, and maybe learn a bit from it.
       })();
   </script>
 </center>
-<br><br>
+
 <p style="text-align: center;">
-– This Site is hosted on a Digital Ocean Droplet –<br>
+- This site is hosted on a DigitalOcean Droplet -<br>
 Get Yours Here: <a href="https://www.digitalocean.com/?refcode=1a6cf80d57dc">https://www.digitalocean.com</a><br>
 Use  the above link and get 2 months free, a $10 credit!<br>
 <br>
 Ting Referral Link: <a href="https://z2i8fc3f549.ting.com/">https://z2i8fc3f549.ting.com/</a>
+<br><br>
+<a href="https://jekyllrb.com/" target="_blank">This website was built using Jekyll</a>
 </p>

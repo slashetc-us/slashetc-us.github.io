@@ -42,4 +42,6 @@ exclude:
    - .gitlab-ci
    - license.md
    - README.md
+   - Gemfile
+   - Gemfile.lock
    - build/

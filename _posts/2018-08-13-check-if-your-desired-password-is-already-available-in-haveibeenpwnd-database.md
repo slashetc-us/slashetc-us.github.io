@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Check if your desired password is already available in haveibeenpwnd database.
-  This command uses the API provided by HIBP
 date: 2018-08-13 07:41:55.000000000 -04:00
 author: TT-RSS Published Article
 type: post

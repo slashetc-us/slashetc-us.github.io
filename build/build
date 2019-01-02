@@ -4,6 +4,7 @@
 case $1 in
    serve)
       echo "Building Blog from ${PWD}, Serving locally from ${PWD}/_site"
+      bundle install
       bundle exec jekyll serve
       ;;
    gitlab)

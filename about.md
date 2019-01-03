@@ -49,3 +49,6 @@ Ting Referral Link: <a href="https://z2i8fc3f549.ting.com/">https://z2i8fc3f549.
 <br><br>
 <a href="https://jekyllrb.com/" target="_blank">This website was built using Jekyll</a>
 </p>
+
+SlashETC: [Privacy Policy](/privacy-policy), [Terms and Conditions](/terms-and-conditions)
+{: .center-text}

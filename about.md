@@ -4,13 +4,26 @@ title: About
 permalink: /about/
 ---
 
+# About Michael
+{: .center-text}
+
 Hello World! Welcome to my little slice of the web.
 
-My name is Michael J. Ford, and this is my personal blog /etc (pronounced “slash” “et-see”). Formerly employed by CVS/Health, I was as a third level support / sysadmin on the retail side of the chain. I worked with Linux and other open source technology’s on a daily basis. Creating new system images / patching systems / and full retail support for over 80k Linux desktop endpoints. You can see my full and always up-to-date resume at Linkedin.
+My name is Michael J. Ford, and this is my personal blog /etc (pronounced “slash” “et-see”).
+I am a Linux Systems Engineer, Cyber Security professional, and Linux/FLOSS Advocate,
+currently working in Defense.
 
-Now down to the meat of the matter. What I do at on my own, is much more fun. At home I run several servers which I purchase, setup and configure myself. Currently consisting of: one fancy home network with a WG Firebox x1250e running PFSense at it’s heart, a central NAS server running FreeNAS, and my pride and joy; my 3-node ProxMox Cluster running a host of servers.
+Here I post original articles and how-to's around Linux and Cyber Security. I've
+been building my own PC's since I was 10, and managing my own infrastructure since
+I was 15 (more on that later). I love my wife, my cat, whisky, the outdoors, and
+bash terminals.
 
-If you hadn’t guessed by now, I am a massive Open Source advocate. I live, eat and breathe it. Currently, my desktop of choice is Debian Linux, running the Cinnamon Desktop Environment. Server-side I run a combination of Debian, Ubuntu, and CentOS. This site is the chronicles of my adventures in Linux and Open Source.
+My infrastructure is, well, overkill - to say the least. For example, this website
+was recently converted to Jekyll from Wordpress. I've gone from browser only management
+to mostly terminal management using git and GitLab, complete with a development
+pipeline and internal build/test systems - all running on Linux. The rest is just as
+much overkill, I'll have a running page [here](/home-network) at some point outlineing
+what I'm running.
 
 I hope you all enjoy what I have to share, and maybe learn a bit from it.
 
@@ -49,3 +62,6 @@ Ting Referral Link: <a href="https://z2i8fc3f549.ting.com/">https://z2i8fc3f549.
 <br><br>
 <a href="https://jekyllrb.com/" target="_blank">This website was built using Jekyll</a>
 </p>
+
+SlashETC: [Privacy Policy](/privacy-policy), [Terms and Conditions](/terms-and-conditions)
+{: .center-text}

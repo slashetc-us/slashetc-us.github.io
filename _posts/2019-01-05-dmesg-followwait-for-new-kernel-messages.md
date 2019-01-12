@@ -1,6 +1,6 @@
 ---
 layout: post
-title: dmesg: follow/wait for new kernel messages
+title: dmesg follow/wait for new kernel messages
 date: 2019-01-05 16:25:57 00:00
 author: TT-RSS Published Article
 type: post

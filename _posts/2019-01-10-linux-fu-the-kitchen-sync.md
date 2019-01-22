@@ -63,7 +63,11 @@ To add a file (such as `.bashrc`) as a template, use the `-T` option to the `add
 
 Because of the templating language, you don’t just have to use custom variables. You can also create conditional sections in templates. For example, you could write something like:
 
-    # common configexport EDITOR=vi# machine-specific configuration{{- if eq .chezmoi.hostname "work-laptop" }}# this will only be included in ~/<code>.bashrc</code> on work-laptop{{- end }}
+    # common config
+    export EDITOR=vi
+    # machine-specific configuration
+    if -eq .chezmoi.hostname "work-laptop"
+    # this will only be included in ~/<code>.bashrc</code> on work-laptop
 
 Security
 --------
@@ -80,7 +84,7 @@ For example, you might have in the configuration:
 
 This should be private. Then in the files that might be exposed to the public you’d have:
 
-    password = {{ .hackaday.password }}
+    password = hackaday.password
 
 There is also an option to use encrypted configuration files using `gpg`.
 

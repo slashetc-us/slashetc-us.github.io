@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Fu: The Kitchen Sync
+title: Linux Fu - The Kitchen Sync
 date: 2019-01-10 15:01:54 00:00
 author: TT-RSS Published Article
 type: post

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Don't) Return to Sender: How to Protect Yourself From Email Tracking
+title: "(Don't) Return to Sender: How to Protect Yourself From Email Tracking"
 date: 2019-01-14 10:35:04 00:00
 author: TT-RSS Published Article
 type: post
@@ -13,8 +13,6 @@ categories:
 
 
 
-
-<div property="content:encoded">
 
 There are a lot of different ways to track email, and different techniques can lie anywhere on the spectrum from marginally acceptable to atrocious. Responsible tracking should aggregate a minimal amount of anonymous data, similar to page hits: enough to let the sender get a sense of how well their campaign is doing without invading users’ privacy. Email tracking should always be disclosed up-front, and users should have a clear and easy way to opt out if they choose to.
 

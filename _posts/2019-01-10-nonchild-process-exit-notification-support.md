@@ -10,10 +10,6 @@ categories:
 - TT-RSS Published Articles
 ---
 
-<div data-history-node-id="1340286">
-
-
-
 
 
 ![](https://www.linuxjournal.com/sites/default/files/nodeimage/story/bigstock--219943504_4.jpg)

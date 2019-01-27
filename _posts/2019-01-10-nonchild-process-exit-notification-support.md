@@ -44,6 +44,6 @@ I want to get pollingloops out of the system. Polling loops are bad for wakeup a
 
 [Go to Full Article](https://www.linuxjournal.com/content/non-child-process-exit-notification-support)
 
-Article Source [here](https://www.linuxjournal.com/content/non-child-process-exit-notification-support). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](https://www.linuxjournal.com/content/non-child-process-exit-notification-support).
 {: .center-text}
 

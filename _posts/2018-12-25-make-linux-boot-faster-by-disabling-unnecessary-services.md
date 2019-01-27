@@ -12,6 +12,6 @@ categories:
 
 Your Linux system may be bloated with lots of services that run in the background. Here's how to make Linux boot faster by disabling unnecessary services.
 
-Article Source [here](http://lxer.com/module/newswire/ext_link.php?rid=264278). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](http://lxer.com/module/newswire/ext_link.php?rid=264278).
 {: .center-text}
 

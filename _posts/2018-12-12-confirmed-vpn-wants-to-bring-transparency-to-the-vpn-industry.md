@@ -27,6 +27,6 @@ I’m not a security expert, so I can’t endorse or recommend Confirmed VPN —
 [![](http://feeds.feedburner.com/~ff/Techcrunch?d=2mJPEYqXBVI)](http://feeds.feedburner.com/~ff/Techcrunch?a=GjBG1RyV-t0:AksVahEVXPs:2mJPEYqXBVI) [![](http://feeds.feedburner.com/~ff/Techcrunch?d=7Q72WNTAKBA)](http://feeds.feedburner.com/~ff/Techcrunch?a=GjBG1RyV-t0:AksVahEVXPs:7Q72WNTAKBA) [![](http://feeds.feedburner.com/~ff/Techcrunch?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/Techcrunch?a=GjBG1RyV-t0:AksVahEVXPs:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/Techcrunch?i=GjBG1RyV-t0:AksVahEVXPs:-BTjWOF_DHI)](http://feeds.feedburner.com/~ff/Techcrunch?a=GjBG1RyV-t0:AksVahEVXPs:-BTjWOF_DHI) [![](http://feeds.feedburner.com/~ff/Techcrunch?i=GjBG1RyV-t0:AksVahEVXPs:D7DqB2pKExk)](http://feeds.feedburner.com/~ff/Techcrunch?a=GjBG1RyV-t0:AksVahEVXPs:D7DqB2pKExk) [![](http://feeds.feedburner.com/~ff/Techcrunch?d=qj6IDK7rITs)](http://feeds.feedburner.com/~ff/Techcrunch?a=GjBG1RyV-t0:AksVahEVXPs:qj6IDK7rITs)
 ![](http://feeds.feedburner.com/~r/Techcrunch/~4/GjBG1RyV-t0)
 
-Article Source [here](https://techcrunch.com/2018/12/12/confirmed-vpn-wants-to-bring-transparency-to-the-vpn-industry/). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](https://techcrunch.com/2018/12/12/confirmed-vpn-wants-to-bring-transparency-to-the-vpn-industry/).
 {: .center-text}
 

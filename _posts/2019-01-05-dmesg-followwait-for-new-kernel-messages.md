@@ -27,6 +27,6 @@ Diff your entire server config at [ScriptRock.com](http://www.scriptrock.com?utm
 
 ![](http://feeds.feedburner.com/~r/Command-line-fu/~4/kbdV0wQSGVM)
 
-Article Source [here](https://www.commandlinefu.com/commands/view/24375/dmesg-followwait-for-new-kernel-messages). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](https://www.commandlinefu.com/commands/view/24375/dmesg-followwait-for-new-kernel-messages).
 {: .center-text}
 

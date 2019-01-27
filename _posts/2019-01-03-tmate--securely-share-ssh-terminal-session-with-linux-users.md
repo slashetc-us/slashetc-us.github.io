@@ -22,6 +22,6 @@ tmate is a clone of tmux (terminal multiplexer) that provides a secure, instant 
 
 ![](http://feeds.feedburner.com/~r/tecmint/~4/FYE4b63aqMg)
 
-Article Source [here](https://www.tecmint.com/tmate-share-ssh-terminal-session/). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](https://www.tecmint.com/tmate-share-ssh-terminal-session/).
 {: .center-text}
 

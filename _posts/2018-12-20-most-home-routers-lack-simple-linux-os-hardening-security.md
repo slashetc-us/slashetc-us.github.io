@@ -12,6 +12,6 @@ categories:
 
 A new assessment of 28 popular models for home users failed to find a single one with firmware that had fully enabled underlying security hardening features offered by Linux.
 
-Article Source [here](https://nakedsecurity.sophos.com/2018/12/20/most-home-routers-lack-simple-linux-os-hardening-security/). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](https://nakedsecurity.sophos.com/2018/12/20/most-home-routers-lack-simple-linux-os-hardening-security/).
 {: .center-text}
 

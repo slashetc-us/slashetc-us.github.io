@@ -12,6 +12,6 @@ categories:
 
 Amazon sends Echo recordings to the wrong person, Russians tried to get US Treasury dirt on Clinton donors, and more of the week's top security news.
 
-Article Source [here](https://www.wired.com/story/hackers-hit-nasa-before-the-holidays). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](https://www.wired.com/story/hackers-hit-nasa-before-the-holidays).
 {: .center-text}
 

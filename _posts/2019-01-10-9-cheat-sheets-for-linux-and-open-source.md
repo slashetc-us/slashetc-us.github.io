@@ -15,6 +15,6 @@ categories:
 
 There are a ton of tasks you do every single day. Make it a little easier on yourself by downloading our cheat sheets.
 
-Article Source [here](https://www.linux.com/news/9-cheat-sheets-linux-and-open-source-1). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](https://www.linux.com/news/9-cheat-sheets-linux-and-open-source-1).
 {: .center-text}
 

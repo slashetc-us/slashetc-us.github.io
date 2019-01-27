@@ -20,6 +20,6 @@ The effectiveness of ASLR is dependent on the entirety of the address space layo
 
 [To read this article in full, please click here](https://app.slashetc.us/article/3331199/linux/what-does-aslr-do-for-linux.html#jump)
 
-Article Source [here](https://www.networkworld.com/article/3331199/linux/what-does-aslr-do-for-linux.html#tk.rss_security). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](https://www.networkworld.com/article/3331199/linux/what-does-aslr-do-for-linux.html#tk.rss_security).
 {: .center-text}
 

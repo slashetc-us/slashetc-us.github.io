@@ -2,9 +2,9 @@ title: "/etc (SlashETC)"
 description: "Personal Page of Michael J. Ford"
 author:
   name: "Michael J. Ford"
-  url: "https://www.slashetc.us"
 
 baseurl: /
+url: "https://www.slashetc.us"
 
 source: .
 destination: ./_site

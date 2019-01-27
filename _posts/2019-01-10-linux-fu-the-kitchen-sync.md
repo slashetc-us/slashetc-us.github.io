@@ -108,6 +108,6 @@ But that’s the good thing about Linux. There are many ways to do things and if
 
 ![](http://feeds.feedburner.com/~r/hackaday/LgoM/~4/TB851fCj6dc)
 
-Article Source [here](https://hackaday.com/2019/01/10/linux-fu-the-kitchen-sync/). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](https://hackaday.com/2019/01/10/linux-fu-the-kitchen-sync/).
 {: .center-text}
 

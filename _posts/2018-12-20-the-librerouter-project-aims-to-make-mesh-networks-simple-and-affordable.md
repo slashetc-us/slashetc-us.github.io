@@ -42,6 +42,6 @@ It’s all open source, of course, and the team is always looking for contributo
 
 ![](http://feeds.feedburner.com/~r/Techcrunch/~4/Q3gSHw2g7dY)
 
-Article Source [here](https://techcrunch.com/2018/12/19/the-librerouter-project-aims-to-make-mesh-networks-simple-and-affordable/). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](https://techcrunch.com/2018/12/19/the-librerouter-project-aims-to-make-mesh-networks-simple-and-affordable/).
 {: .center-text}
 

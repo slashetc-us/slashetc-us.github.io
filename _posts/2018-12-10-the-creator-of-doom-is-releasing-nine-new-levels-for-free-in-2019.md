@@ -29,5 +29,5 @@ He's putting those tools to work on building out a whole new, nine-level episode
 
 More about [Entertainment](https://mashable.com/entertainment/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&utm_cid=Mash-Prod-RSS-Feedburner-All-Partial), [Gaming](https://mashable.com/category/gaming/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&utm_cid=Mash-Prod-RSS-Feedburner-All-Partial), [Doom](https://mashable.com/category/doom/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&utm_cid=Mash-Prod-RSS-Feedburner-All-Partial), [John Romero](https://mashable.com/category/john-romero/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&utm_cid=Mash-Prod-RSS-Feedburner-All-Partial), and [Entertainment](https://mashable.com/entertainment/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&utm_cid=Mash-Prod-RSS-Feedburner-All-Partial)![](http://feeds.feedburner.com/~r/Mashable/~4/0wCb6YkX76M)
 
-Article Source [here](https://mashable.com/article/doom-john-romero-sigil-new-episode/). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](https://mashable.com/article/doom-john-romero-sigil-new-episode/).
 {: .center-text}

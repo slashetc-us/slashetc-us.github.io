@@ -22,6 +22,6 @@ Tiger is a free, open source collections of shell scripts for security audit and
 
 ![](http://feeds.feedburner.com/~r/tecmint/~4/aTFWZghE-1U)
 
-Article Source [here](https://www.tecmint.com/tiger-linux-security-audit-intrusion-detection-tool/). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](https://www.tecmint.com/tiger-linux-security-audit-intrusion-detection-tool/).
 {: .center-text}
 

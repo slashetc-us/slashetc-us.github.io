@@ -22,6 +22,6 @@ This post, [Tilix 1.8.7 Released, Here’s How to Install it on Ubuntu](https://
 
 ![](http://feeds.feedburner.com/~r/d0od/~4/z-4bobf6cuY)
 
-Article Source [here](https://www.omgubuntu.co.uk/2019/01/tilix-terminal-app-new-update-icon). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](https://www.omgubuntu.co.uk/2019/01/tilix-terminal-app-new-update-icon).
 {: .center-text}
 

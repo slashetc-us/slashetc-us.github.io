@@ -22,6 +22,6 @@ In a prior article, a firewall solution known as PfSense was discussed. In early
 
 ![](http://feeds.feedburner.com/~r/tecmint/~4/Z4Y26-eRupc)
 
-Article Source [here](https://www.tecmint.com/install-and-configure-opnsense-firewall/). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](https://www.tecmint.com/install-and-configure-opnsense-firewall/).
 {: .center-text}
 

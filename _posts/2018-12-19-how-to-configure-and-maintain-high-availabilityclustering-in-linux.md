@@ -22,6 +22,6 @@ High Availability (HA) simply refers to a quality of a system to operate continu
 
 ![](http://feeds.feedburner.com/~r/tecmint/~4/WSLUf7zmjr4)
 
-Article Source [here](https://www.tecmint.com/setup-high-availability-clustering-in-centos-ubuntu/). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](https://www.tecmint.com/setup-high-availability-clustering-in-centos-ubuntu/).
 {: .center-text}
 

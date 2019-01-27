@@ -12,6 +12,6 @@ categories:
 
 The flaw offered attackers a way of executing keystroke injection to take control of a Windows PC running Logitech Options.
 
-Article Source [here](https://nakedsecurity.sophos.com/2018/12/18/logitech-flaw-fixed-after-project-zero-disclosure/). My TT-RSS Published Articles Feed [here](https://app.slashetc.us/tt-rss/public.php?op=rss&id=-2&view-mticles&key=jfaea95713919339fe5).
+Article Source [here](https://nakedsecurity.sophos.com/2018/12/18/logitech-flaw-fixed-after-project-zero-disclosure/).
 {: .center-text}
 

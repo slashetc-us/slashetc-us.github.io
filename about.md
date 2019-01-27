@@ -22,8 +22,8 @@ My infrastructure is, well, overkill - to say the least. For example, this websi
 was recently converted to Jekyll from Wordpress. I've gone from browser only management
 to mostly terminal management using git and GitLab, complete with a development
 pipeline and internal build/test systems - all running on Linux. The rest is just as
-much overkill, I'll have a running page [here](/home-network) at some point outlineing
-what I'm running.
+much overkill, I'll have a page at some point outlining [my home network and infrastructure](/home-network)
+in all it's blinkin lights glory.
 
 I hope you all enjoy what I have to share, and maybe learn a bit from it.
 

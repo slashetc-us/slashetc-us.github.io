@@ -32,6 +32,7 @@ plugins:
 # Custom variables
 owner : "Michael J. Ford"
 year : "2019"
+twitter_username : Michael_J_Ford
 
 # Google Tracking
 google_analytics:

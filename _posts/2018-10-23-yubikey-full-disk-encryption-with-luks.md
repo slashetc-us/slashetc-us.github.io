@@ -95,6 +95,24 @@ You can open LUKS container protected with yubikey-luks on running system
 
     yubikey-luks-open
 
+### Enable yubikey-luks initramfs module
+
+In order to use yubikey-luks for unlocking LUKS encrypted volume at boot you must append keyscript=/usr/share/yubikey-luks/ykluks-keyscript to the /etc/crypttab file. Example:
+
+	cryptroot /dev/sda none  luks,keyscript=/usr/share/yubikey-luks/ykluks-keyscript
+
+After changing this file, you need to run
+
+  update-initramfs -u
+
+so that the changes get transferred to the initramfs.
+
+Alternatively you may add keyscript=/sbin/ykluks-keyscript to your boot cmdline in cryptoptions. Example:
+
+	cryptoptions=target=cryptroot,source=/dev/sda,keyscript=/sbin/ykluks-keyscript
+
+Updated: 20190223 - Not sure how I missed this, but it was working without it up until about a month ago with a dist-upgrade (kernel update and whatnot). My machines don't seem to have this at all and still worked - strange.... My version of the [yubikey-luks](https://github.com/finlstrm/yubikey-luks) package will add a line to primary drive when enabling this.
+
 ### Manage several Yubikeys and Machines
 
 It is possible to manage several Yubikeys and machines. You need to use privacyIDEA to manage the Yubikeys and the privacyIDEA admin client to push the Yubikey responses to the LUKS slots.

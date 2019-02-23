@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Fu: Easier File Watching
+title: Linux Fu - Easier File Watching
 date: 2019-01-31 18:00:58 00:00
 author: TT-RSS Published Article
 type: post

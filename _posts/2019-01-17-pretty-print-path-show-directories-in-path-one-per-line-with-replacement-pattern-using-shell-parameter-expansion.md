@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pretty print" $PATH, show directories in $PATH, one per line with replacement pattern using shell parameter expansion
+title: '"Pretty print" $PATH, show directories in $PATH, one per line with replacement pattern using shell parameter expansion'
 date: 2019-01-17 20:34:21 00:00
 author: TT-RSS Published Article
 type: post

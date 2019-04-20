@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekend Reading: Scary Tales from the Server Room
+title: "Weekend Reading: Scary Tales from the Server Room"
 date: 2019-03-30 12:00:00 00:00
 author: TT-RSS Published Article
 type: post

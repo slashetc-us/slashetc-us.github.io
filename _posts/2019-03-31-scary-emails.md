@@ -175,3 +175,7 @@ malicious activitys.
 
 \* _Full email body text has been provided to look though. It has only been changed
 so that bots don't pickup my email_
+
+*Edit 201905024* TLDR; found this nice 30 second video from a Sophos Naked Security Article: [Sextortion mail from yourself? It doesn’t mean you’ve been hacked](https://nakedsecurity.sophos.com/2019/05/09/sextortion-mail-from-yourself-it-doesnt-mean-youve-been-hacked/).
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/aEmhW0t6vzI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

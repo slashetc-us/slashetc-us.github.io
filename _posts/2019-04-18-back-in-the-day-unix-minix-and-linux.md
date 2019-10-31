@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Back in the Day: UNIX, Minix and Linux
+title: "Back in the Day: UNIX, Minix and Linux"
 date: 2019-04-18 12:00:00 00:00
 author: TT-RSS Published Article
 type: post

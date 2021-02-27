@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SolarWinds attack explained: And why it was so hard to detect
+title: "SolarWinds attack explained: And why it was so hard to detect"
 date: 2020-12-15 11:44:00 00:00
 author: TT-RSS Published Article
 type: post

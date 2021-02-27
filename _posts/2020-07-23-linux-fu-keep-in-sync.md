@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Fu: Keep In Sync
+title: "Linux Fu: Keep In Sync"
 date: 2020-07-23 14:00:27 00:00
 author: TT-RSS Published Article
 type: post

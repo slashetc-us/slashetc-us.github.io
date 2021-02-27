@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Fu: Serial Untethered
+title: "Linux Fu: Serial Untethered"
 date: 2021-02-11 18:01:31 00:00
 author: TT-RSS Published Article
 type: post

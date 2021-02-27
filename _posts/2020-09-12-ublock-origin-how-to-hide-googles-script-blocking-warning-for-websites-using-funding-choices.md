@@ -1,6 +1,6 @@
 ---
 layout: post
-title: uBlock Origin: How to hide Google’s script blocking warning for websites using Funding Choices
+title: "uBlock Origin: How to hide Google’s script blocking warning for websites using Funding Choices"
 date: 2020-09-12 12:19:27 00:00
 author: TT-RSS Published Article
 type: post

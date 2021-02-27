@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tales From the Sysadmin: Impending Hard Drive Doom
+title: "Tales From the Sysadmin: Impending Hard Drive Doom"
 date: 2020-07-14 14:00:10 00:00
 author: TT-RSS Published Article
 type: post

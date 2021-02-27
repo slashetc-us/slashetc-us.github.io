@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux-Fu: One at a Time, Please! Critical Sections in Bash Scripts
+title: "Linux-Fu: One at a Time, Please! Critical Sections in Bash Scripts"
 date: 2020-08-18 17:01:23 00:00
 author: TT-RSS Published Article
 type: post

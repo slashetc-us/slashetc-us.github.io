@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fix Firefox Proton (Bring Back Photon)"
-date: 2021-17-17 15:10:31 00:00
+date: 2021-08-17 15:10:31 00:00
 author: Michael J. Ford
 type: post
 published: true

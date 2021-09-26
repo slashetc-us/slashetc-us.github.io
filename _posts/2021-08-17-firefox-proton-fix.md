@@ -19,4 +19,4 @@ Now we just need to hope the ability to use user.js and userChrome.js don't disa
 
 Now on to script for my environment. That's all, just wanted to give a shout out! Link Below:
 
-[](https://github.com/black7375/Firefox-UI-Fix/tree/photon-style)
+[https://github.com/black7375/Firefox-UI-Fix/tree/photon-style](https://github.com/black7375/Firefox-UI-Fix/tree/photon-style)
